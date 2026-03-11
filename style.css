@@ -23,6 +23,10 @@ body {
   padding: 48px 20px 32px;
 }
 
+.alt-header {
+  background: linear-gradient(135deg, #123d6b, #1b5fa7);
+}
+
 .site-header h1 {
   margin: 0;
   font-size: 2.5rem;
@@ -32,7 +36,7 @@ body {
 .subtitle {
   margin-top: 10px;
   font-size: 1rem;
-  opacity: 0.9;
+  opacity: 0.92;
 }
 
 .nav {
